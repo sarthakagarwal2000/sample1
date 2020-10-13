@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="UTF-8">
+	<title>ASSIGNMENT</title>
+</head>
+<body>
+	<main>
+		<h1>Sarthak Agarwal</h1>
+	</main>
+	<a href="#one">One</a>
+	<a href="#two">Two</a>
+	<a href="#three">Three</a>
+	<a href="#gc">About</a>
+<section>
+	<a id="one"><h2>Favorite Foods</h2></a>
+		<ul>
+			<li>Pizza</li>
+			<li>Burger</li>
+			<li>Chilli Paneer</li>
+			<li>Momos</li>
+		</ul>
+	
+</section>
+<section>
+	<a id="two"><h2>Achivements</h2></a>
+	<p>Progress in this course (100%)<progress value="100" max="100"></progress></p>
+	<p>Progress in the Specialization capstone (20%)<progress value="20" max="100"></progress></p>
+	<p>Progress in life goals (86%)<progress value="86" max="100"></progress></p>
+
+</section>
+<section>
+	<a id="three"><h2>More About Me</h2></a>
+	<details>
+		<summary>MY Childhood</summary> 
+		<p>I grew up in BAREILLY,UP,INDIA. I am currently a 2nd year engineering student,and want to excell in WEB DEVELOPEMENT.</p>
+	</details>
+	<br><br>
+</section>
+<footer>
+	<a id="gc"><img src="http://www.intro-webdesign.com/images/newlogo.png" alt="WD4E LOGO"></a>
+	This page was created by Sarthak Agarwal & Colleen van Lent.To learn more about web design, visit<a href="http://www.intro-webdesign.com." target="blank"> Intro to Web Design.</a>
+</footer>
+</body>
+</html>
